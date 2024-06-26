@@ -1,5 +1,1 @@
-- You can call me Freddie.
-- I like dabbling with neural networks, kernels, web services, bots, ethical hacking, and everything tangential.
-- Up for collaboration.
-- You can message me at ``@.Freddie`` on Discord, or ``freddie_ghub@gmail.com``.
-- Pronouns: He/Him.
+hi
